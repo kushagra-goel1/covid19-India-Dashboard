@@ -15,12 +15,7 @@ This project contains a Power BI dashboard that provides insights into the COVID
   - Gender-wise and age-wise dose trends
   - Testing trends and results by state and time
 
-## Getting Started
 
-To explore the dashboard:
-1. Download the `.pbix` file
-2. Open it using **Power BI Desktop**
-3. Interact with filters and visuals for insights
 
 ## Data Sources
 
